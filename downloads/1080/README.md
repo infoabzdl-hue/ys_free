@@ -8,7 +8,7 @@
 |----------|-------|
 | **File** | `1080.mp4` |
 | **URL** | https://s68.bigcdn.cc/pubs/6a038f24c724f6.70166953/1080.mp4 |
-| **Date** | 2026-05-12 20:42:40 UTC |
+| **Date** | 2026-05-12 20:44:51 UTC |
 | **Status** | **FAILED** |
 
 ---
@@ -16,7 +16,7 @@
 ## Error Details
 
 ```
-Download failed after 3 attempts. Last error: #=#=#                                                                          ##O#-#                                                                         ##O=#  #                                                                       #=#=-#  #                                                                      curl: (22) The requested URL returned error: 404
+Download failed after 3 attempts. Last error: #=#=#                                                                          ##O#-#                                                                         curl: (22) The requested URL returned error: 404
 ```
 
 ---
