@@ -7,8 +7,8 @@
 | Property | Value |
 |----------|-------|
 | **File** | `1080.mp4` |
-| **URL** | https://s49.bigcdn.cc/pubs/6a03928fbe6080.73268169/1080.mp4 |
-| **Date** | 2026-05-12 22:22:18 UTC |
+| **URL** | https://s44.bigcdn.cc/pubs/6a03829eccaf72.58352362/1080.mp4 |
+| **Date** | 2026-05-12 22:30:47 UTC |
 | **Status** | **FAILED** |
 
 ---
@@ -16,7 +16,7 @@
 ## Error Details
 
 ```
-Download failed after 3 attempts. Last error: #=#=#                                                                          ##O#-#                                                                         ##O=#  #                                                                       curl: (22) The requested URL returned error: 404
+Download failed after 3 attempts. Last error: #=#=#                                                                          ##O#-#                                                                         curl: (22) The requested URL returned error: 404
 ```
 
 ---
