@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `vid_720p.mp4` |
-| **Total Size** | **11 parts** - **954.40 MB** |
+| **Total Size** | **8 parts** - **660.10 MB** |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
@@ -24,10 +24,7 @@
 | 5 | `vid_720p.z05` | [Download](https://github.com/infoabzdl-hue/ys_free/raw/main/downloads/vid_720p/vid_720p.z05) |
 | 6 | `vid_720p.z06` | [Download](https://github.com/infoabzdl-hue/ys_free/raw/main/downloads/vid_720p/vid_720p.z06) |
 | 7 | `vid_720p.z07` | [Download](https://github.com/infoabzdl-hue/ys_free/raw/main/downloads/vid_720p/vid_720p.z07) |
-| 8 | `vid_720p.z08` | [Download](https://github.com/infoabzdl-hue/ys_free/raw/main/downloads/vid_720p/vid_720p.z08) |
-| 9 | `vid_720p.z09` | [Download](https://github.com/infoabzdl-hue/ys_free/raw/main/downloads/vid_720p/vid_720p.z09) |
-| 10 | `vid_720p.z10` | [Download](https://github.com/infoabzdl-hue/ys_free/raw/main/downloads/vid_720p/vid_720p.z10) |
-| 11 | `vid_720p.zip` | [Download](https://github.com/infoabzdl-hue/ys_free/raw/main/downloads/vid_720p/vid_720p.zip) |
+| 8 | `vid_720p.zip` | [Download](https://github.com/infoabzdl-hue/ys_free/raw/main/downloads/vid_720p/vid_720p.zip) |
 
 ---
 
